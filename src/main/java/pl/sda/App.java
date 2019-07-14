@@ -18,5 +18,6 @@ public class App {
 
         System.out.println("LAT: " + location.getLat());
         System.out.println("LON: " + location.getLon());
+        System.out.println("YOOOOPY");
     }
 }
